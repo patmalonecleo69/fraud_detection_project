@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection — ML Pipeline
+# Credit Card Fraud Detection - ML Pipeline
 
 A complete, reproducible machine learning pipeline for detecting fraudulent
 credit card transactions in a severely imbalanced dataset (~0.2% fraud rate).
