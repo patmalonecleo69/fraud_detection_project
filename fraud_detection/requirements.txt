@@ -1,0 +1,8 @@
+pinumpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+xgboost>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.3
